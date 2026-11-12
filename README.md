@@ -10,4 +10,6 @@ Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt
 
 We hebben uitleg gehad over het web en waar het uit bestaat en hoe alles samen werkt, wat wat doet en wat wij gaan doen. Daarnaast zijn we bezig geweest met css en hebben we gewerkt aan een lelijke website maken. Geleerd hoe je tekst zo kan maken dat het zich aanpast aan het scherm, want bepaalde font-sizes zijn te groot op een telefoon. Hier gebruike je dan een soort rekensom. Ook hebben we geleerd dat je bijvoorbeld een form kan laten ordenen door display:fles te gebruiken.
 
+![Screenshot van mijn website](images/screenshot_week1.png)
+
 We hebben uitleg gehad over @font-face. Wat je het beste kan doen en hoe je het moet gebruiken.
