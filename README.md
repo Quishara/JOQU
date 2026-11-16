@@ -18,7 +18,7 @@ We hebben uitleg gehad over @font-face. Wat je het beste kan doen en hoe je het 
 
 Vandaag was nicky ziek, dus heb ik thuis schetsen gemaakt van een take-out menu design voor een tablet of een website.
 
-(images/takeout.png)
+![Screenshot van mijn website](images/takeout.png)
 
 16 nov, 2026
 
