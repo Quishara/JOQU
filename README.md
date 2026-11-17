@@ -31,3 +31,10 @@ Wat een website webby maakt is wat jij leuk vind. of tof vind. wat voor animatie
 Ik wil aan de slag gaan met het maken van een soort digital archief, wat allemaal temaken heeft gamen en muziek. Ook lijk het me leuk om een soort van mijn huis, na te maken met al mijn hobby's en eastereggs.
 
 Mix van mysims maken met mijn hobbies. Een soort van mysims wereld. die overloopt in dead by daylight, en dayz en gta.
+
+17 nov, 2026
+
+Ik heb vandaag het practicum Light & Darkmode gedaan. Hier heb ik geleerd hoe je een light en darkmode kan toevoege, en hoe je het automatisch kan laten mee gaan met wat je ingesteld hebt op je computer. Ook hebben we geleerd hoe je afbeeldingen kan mee laten veranderen met de website grote in combinatie met de light en dakrmode (responsive afbeeldingen).
+
+![Screenshot van webby opdracht](images/readme/Light&darkmode.png)
+(images/readme/responsive_images.png)
