@@ -36,5 +36,5 @@ Mix van mysims maken met mijn hobbies. Een soort van mysims wereld. die overloop
 
 Ik heb vandaag het practicum Light & Darkmode gedaan. Hier heb ik geleerd hoe je een light en darkmode kan toevoege, en hoe je het automatisch kan laten mee gaan met wat je ingesteld hebt op je computer. Ook hebben we geleerd hoe je afbeeldingen kan mee laten veranderen met de website grote in combinatie met de light en dakrmode (responsive afbeeldingen).
 
-![Screenshot van webby opdracht](images/readme/Light&darkmode.png)
+![Screenshot van webby opdracht](/images/README/Light&darkmode.png)
 (images/readme/responsive_images.png)
