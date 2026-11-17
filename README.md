@@ -10,7 +10,7 @@ Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt
 
 We hebben uitleg gehad over het web en waar het uit bestaat en hoe alles samen werkt, wat wat doet en wat wij gaan doen. Daarnaast zijn we bezig geweest met css en hebben we gewerkt aan een lelijke website maken. Geleerd hoe je tekst zo kan maken dat het zich aanpast aan het scherm, want bepaalde font-sizes zijn te groot op een telefoon. Hier gebruike je dan een soort rekensom. Ook hebben we geleerd dat je bijvoorbeld een form kan laten ordenen door display:fles te gebruiken.
 
-![Screenshot van mijn website](images/readme/screenshot_week1.png)
+![Screenshot van mijn website](images/README/screenshot_week1.png)
 
 We hebben uitleg gehad over @font-face. Wat je het beste kan doen en hoe je het moet gebruiken.
 
@@ -18,7 +18,7 @@ We hebben uitleg gehad over @font-face. Wat je het beste kan doen en hoe je het 
 
 Vandaag was nicky ziek, dus heb ik thuis schetsen gemaakt van een take-out menu design voor een tablet of een website.
 
-![Screenshot van mijn schetsen van takeout menu](/images/readme/takeout.png)
+![Screenshot van mijn schetsen van takeout menu](/images/README/takeout.png)
 
 16 nov, 2026
 
@@ -26,7 +26,7 @@ Een digital garden is een groeiende website, die constant verandert en geen eind
 
 Wat een website webby maakt is wat jij leuk vind. of tof vind. wat voor animaties of wat voor fonts ofzo.
 
-![Screenshot van webby opdracht](/images/readme/webby.jpeg)
+![Screenshot van webby opdracht](/images/README/webby.jpeg)
 
 Ik wil aan de slag gaan met het maken van een soort digital archief, wat allemaal temaken heeft gamen en muziek. Ook lijk het me leuk om een soort van mijn huis, na te maken met al mijn hobby's en eastereggs.
 
@@ -37,4 +37,4 @@ Mix van mysims maken met mijn hobbies. Een soort van mysims wereld. die overloop
 Ik heb vandaag het practicum Light & Darkmode gedaan. Hier heb ik geleerd hoe je een light en darkmode kan toevoege, en hoe je het automatisch kan laten mee gaan met wat je ingesteld hebt op je computer. Ook hebben we geleerd hoe je afbeeldingen kan mee laten veranderen met de website grote in combinatie met de light en dakrmode (responsive afbeeldingen).
 
 ![Screenshot van webby opdracht](/images/README/Light&darkmode.png)
-(/images/readme/responsive_images.png)
+(/images/README/responsive_images.png)
