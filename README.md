@@ -1,12 +1,10 @@
-    /*Sprint 0 - Getting a grip*/
-
-    9 nov, 2026
+<h1> 9 nov, 2026 </h1>
 
 Leg uit wat een source hosting platform is en voor welke jij gekozen hebt. = Github, is een platform waaruit ik mijn domein code kan hosten, en ik heb gekozen voor deze omdat school het zei.
 Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina. = Ik heb gekozen voor JOQU, ik heb die gekoppeld door op github de daam te veranderen en op transip de domein naam te kopen en de ip adressen te koppelen aan mijn github ip's
 Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden. = Ik kan het aanpassen in VSCodium en als ik het daar opsla dan word het automatisch door gevoerd en gepubliceerd naar mijn domein pagina.
 
-    11 nov, 2026
+  <h1>  11 nov, 2026 </h1>
 
 We hebben uitleg gehad over het web en waar het uit bestaat en hoe alles samen werkt, wat wat doet en wat wij gaan doen. Daarnaast zijn we bezig geweest met css en hebben we gewerkt aan een lelijke website maken. Geleerd hoe je tekst zo kan maken dat het zich aanpast aan het scherm, want bepaalde font-sizes zijn te groot op een telefoon. Hier gebruike je dan een soort rekensom. Ook hebben we geleerd dat je bijvoorbeld een form kan laten ordenen door display:fles te gebruiken.
 
@@ -14,13 +12,13 @@ We hebben uitleg gehad over het web en waar het uit bestaat en hoe alles samen w
 
 We hebben uitleg gehad over @font-face. Wat je het beste kan doen en hoe je het moet gebruiken.
 
-13 nov, 2026
+<h1>13 nov, 2026 </h1>
 
 Vandaag was nicky ziek, dus heb ik thuis schetsen gemaakt van een take-out menu design voor een tablet of een website.
 
 ![Screenshot van mijn schetsen van takeout menu](images/README/takeout.png)
 
-16 nov, 2026
+<h1>16 nov, 2026</h1>
 
 Een digital garden is een groeiende website, die constant verandert en geen eind website heeft, je kan er verkennen en ontdekken wat de geene die het heeft gemaakt erop heeft gezet. Een reguliere website is heel straight-forward en heeft een duidelijk doel en is al compleet en zal niet zomaar veranderen.
 
@@ -32,9 +30,13 @@ Ik wil aan de slag gaan met het maken van een soort digital archief, wat allemaa
 
 Mix van mysims maken met mijn hobbies. Een soort van mysims wereld. die overloopt in dead by daylight, en dayz en gta.
 
-17 nov, 2026
+<h1>17 nov, 2026</h1>
+
+<h2> PRACTICUM 1 </h2>
 
 Ik heb vandaag het practicum Light & Darkmode gedaan. Hier heb ik geleerd hoe je een light en darkmode kan toevoege, en hoe je het automatisch kan laten mee gaan met wat je ingesteld hebt op je computer. Ook hebben we geleerd hoe je afbeeldingen kan mee laten veranderen met de website grote in combinatie met de light en dakrmode (responsive afbeeldingen).
 
 ![Screenshot van webby opdracht](images/README/Light&darkmode.png)
 ![Screenshot](images/README/responsive_images.png)
+
+<h2>REMARK</h1>
