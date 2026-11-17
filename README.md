@@ -40,3 +40,7 @@ Ik heb vandaag het practicum Light & Darkmode gedaan. Hier heb ik geleerd hoe je
 ![Screenshot](images/README/responsive_images.png)
 
 <h2>REMARK</h1>
+
+Dit heeft me in zijn geheel veel te veel tijd gekost lol. Ik ben zomaar extra random dingen gaan doen HAH. uiteindelijk opzich wel grappig geworden, gelukkig. slay
+![Screenshot van webby opdracht](images/README/remark-1.png)
+![Screenshot](images/README/remark-2.png)

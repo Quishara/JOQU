@@ -12,6 +12,72 @@
       .remark-inline-code {
         font-family: monospace;
       }
+
+      a {
+        color: limegreen;
+        font-weight: bold;
+      }
+
+      .remark-container {
+        background: linear-gradient(
+          to bottom,
+          deeppink 0%,
+          black 50%,
+          deeppink 100%
+        );
+      }
+
+      /* Actual presentation slides */
+      .remark-slide-content {
+        background: black;
+        color: white;
+      }
+
+      .remark-slide-content h1 {
+        color: Aqua;
+        text-shadow:
+          0 0 5px #87cefa,
+          0 0 10px #87cefa,
+          0 0 20px #00bfff,
+          0 0 35px #00bfff;
+      }
+
+      /* Tekst kleiner maken */
+      .remark-slide-content {
+        font-size: 16px;
+        line-height: 1.4;
+      }
+
+      .remark-slide-content {
+        background-repeat: no-repeat !important;
+        background-size: contain !important;
+        background-position: center center !important;
+      }
+
+      .animated-title {
+        color: aqua;
+        font-size: 55px;
+        text-shadow:
+          0 0 5px aqua,
+          0 0 10px aqua,
+          0 0 20px deeppink,
+          0 0 40px deeppink;
+
+        animation: pulse 2s ease-in-out infinite;
+      }
+
+      @keyframes pulse {
+        0%,
+        100% {
+          transform: scale(1);
+          opacity: 1;
+        }
+
+        50% {
+          transform: scale(1.08);
+          opacity: 0.7;
+        }
+      }
     </style>
   </head>
   <body>
@@ -24,7 +90,8 @@ zie https://github.com/gnab/remark/wiki voor alle mogelijkheden!
 
 # Inspiratie voor de digital garden van JOQU
 
-Dit is een voorbeeld. Pas alles aan, zet het naar je hand, doe dingen...
+<img src="/Users/quishara_amier/JOQU/JOQU/images/remark/Power-button.gif" width="200px">
+
 
 ---
 
@@ -34,14 +101,15 @@ Dit is een voorbeeld. Pas alles aan, zet het naar je hand, doe dingen...
 1. Onderwerp
 2. 10 links
 3. 50 afbeeldingen
-4. ...(max 11 slides, 15 totaal)
-5. introtekst van max. 180 tekens
+4. introtekst van max. 180 tekens
 
 ---
 
 # Onderwerp
 
-Wat is jouw interesse, waarom, wat, hoe (cultuur, vakmanschap, sport, idool, ​hobby, passie categorie enz.) toon een hoeveelheid afbeeldingen.​
+GAMES, thuis, me. alles wat ik leuk vind en hoe ik me wil uiten. Mixed media. Moeilijke dingen proberen.
+
+<img src="/Users/quishara_amier/JOQU/JOQU/images/remark/mew.gif" width="200px">
 
 ---
 
@@ -49,40 +117,64 @@ Wat is jouw interesse, waarom, wat, hoe (cultuur, vakmanschap, sport, idool, ​
 
 Welke 10 links heb je gelezen, geraadpleegd ter inspiratie, verdieping? Wat heb je daaruit gehaald?
 
+<p>  </p>
+
+<dl>
+<dt><a href>https://gkoberger.com/</a></dt>
+  <dd>- Ik vind het cool, hoe je een hoverstate hebt over de items op het bureau.</dd>
+ 
+  <dt><a href>https://www.rockstargames.com/VI</a></dt>
+  <dd>- Ze hebben een loading, animatie als iets lang duurt met laden ook vind ik de transities heel nice als je door de website scrolt.</dd>
+  
+  <dt><a href>https://jetholt.com/hacking/</a></dt>
+  <dd>- Ze hebben letterlijk een minigame in de website, heel nice</dd>
+
+  <dt><a href>https://bruno-simon.com/</a></dt>
+  <dd>- Dit is gewoon een game, maar hij heeft zijn porfolio als achievements gemaakt en allemaal links en eastereggs gemaakt</dd>
+  
+  <dt><a href>https://www.cameronsworld.net/</a></dt>
+  <dd>- love de look, heel eigen er gebeurt heel veel maar dat vind ik wel leuk. je kan echt ontdekken</dd>
+
+  <dt><a href>https://nicopowa.github.io/ripples3/</a></dt>
+  <dd>- ziek effect, hoe kan je dit toepassen op een website waar je nog andere dingen op hebt?</dd>
+
+    <dt><a href>https://wildrose.space/</a></dt>
+  <dd>- Echt een cute digital garden. Bijna een soort persoonlijk dagboek. Mooie kleuren, en simpele maar duidelijke opzet</dd>
+
+    <dt><a href>https://sixey.es/</a></dt>
+  <dd>- Again een verzameling van de gekste shit.</dd>
+</dl>
+
 ---
 
-# Zoek 50 afbeeldingen
+class: center, middle
 
-Waarom kies je specifiek voor deze verzameling? Zijn er patronen te ontdekken? Heeft
-alles een specifieke kleurstelling? Herken je een actie, een gevoel, een materiaal of
-een standpunt? Wat is kenmerkend voor deze verzameling? Welke dingen komen steeds terug?
+<h1 class="animated-title">50 gevonden afbeeldingen</h1>
+---
+background-image: url(../../images/remark/50-50.png)
+background-size: contain
+background-position: center
+background-repeat: no-repeat
 
 ---
-
-<!-- Slide zonder titel! -->
-
-Hieronder een voorbeeld voor het opnemen van een afbeelding. Het is iets lastiger
-om met Remarkjs een heleboel afbeeldingen op één slide op te nemen, je hebt daar
-veel custom CSS voor nodig. Een handige workaround is om in een fotobewerkingsprogramma
-een aantal collages van de door jou gevonden afbeeldingen te maken en die op te
-nemen als afbeelding op de slide...
-
-![placeholder image](./placeholder.svg)
-
----
-background-image: url(./placeholder.svg)
-
-... of als [background image](https://github.com/gnab/remark/wiki/Markdown#background-image) voor een slide.
-
+background-image: url(../../images/remark/25-50.png)
+background-size: contain
+background-position: center
+background-repeat: no-repeat
 ---
 
 # Introtekst
 
-Wat wil je een ander vertellen over je onderwerp ​
+<i>Wat wil je een ander vertellen over je onderwerp ​
 
 Hoe denk je dit te vertellen met eigen content? en met overige content zoals (links, afbeeldingen, tekst)
 
-Schrijf een eerste stukje content als basis voor je garden (maximaal 180 tekens).
+Schrijf een eerste stukje content als basis voor je garden (maximaal 180 tekens).</i>
+
+Ik wil een gekke website maken maar als basis mijn grote hobby: gamen. Als ik kijk naar de voorbeelden is er een groot contrast tussen moderne "cleane" websites en websites die all over the place zijn. Ik wil het een soort combinatie maken. Ik wil op een of andere manier wel iets van een overzicht erin houden maar dat hoeft niet per se overal. Wel zou ik het chill vinden als er iets van een samenhorende stijl zou zijn, ookal past niet alles bij mekaar dat maakt het ook wel weer interressant om naar te kijken. Ik vond het altijd ook wel leuk om met mixed media te werken dus ik denk dat ik dat deze keer ga implementeren op mijn website ik weet nog niet hoe precies, maar het komt erin.
+<br>
+<br>
+Ik kan dit doen door zelf dingen te maken, zowel digital als handmatig. Ik kan kijken naar hoe ze design toepassen in games, interfaces, menu's (gta5, telefoon in je zak als menu). 
 
 <!-- Laat onderstaande staan anders breekt je presentatie -->
     </textarea>
