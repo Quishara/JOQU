@@ -74,3 +74,5 @@ Ik wil mijn Digital Garden laten gaan over Quishara's brain specifiek, Game lair
 en wil dat laten zien door alles wat met gamen en mijn brein te maken heeft aan content te tonen.
 Ik begin met een stukje eigen content over wie ik ben en hoe ik op deze onderwerpen ben gekomen. ​
 Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door van alles en nog wat toe te voegen aan mijn website, niet met specifieke volgorde. Spelen met css en html en buttons die bijvoorbeeld de hele website veranderen.​
+![Screenshot](images/remark/25-50.png)
+![Screenshot](images/remark/50-50.png)
