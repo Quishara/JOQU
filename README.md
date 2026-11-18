@@ -44,3 +44,33 @@ Ik heb vandaag het practicum Light & Darkmode gedaan. Hier heb ik geleerd hoe je
 Dit heeft me in zijn geheel veel te veel tijd gekost lol. Ik ben zomaar extra random dingen gaan doen HAH. uiteindelijk opzich wel grappig geworden, gelukkig. slay
 ![Screenshot van webby opdracht](images/README/remark-1.png)
 ![Screenshot](images/README/remark-2.png)
+
+<h1>18 nov, 2026</h1>
+
+<h2>REMARK vragenlijst</h2>
+
+<h3>Eigen verbinding:​</h3>
+
+Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​
+-- Echt een collectie van eigen hobby's en beelden die ik tof vind, op 1 pagina. Druk en van alles wat, met eastereggs. Het main onderwerp is wel gamen, maar ook dat het echt een ontdek website is.
+
+Heeft 'de ander' een aanvulling op je onderwerp?​
+-- spelen met de pointer. en consoles toevoegen.
+
+Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​
+-- Denk misschien hip, en dynamisch, gamer dungeon vibes, maar ook girly en grafisch.
+
+Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​
+-- game inspiratie, wat voor stijl ze hebben en welke ik kan gebruiken in mijn website. Van het andere deel kan ik insipratie pakken van echte vormgeving voor op mijn website, en kleur en elementen.
+--
+​
+
+<h3>Een stip op de horizon​</h3>
+
+Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's). ​
+
+Vul deze zin aan:
+Ik wil mijn Digital Garden laten gaan over Quishara's brain specifiek, Game lair, design brain en random extra shit die ik cool en leuk vind. totale creatieve vrijheid. Een soort explore my brain.
+en wil dat laten zien door alles wat met gamen en mijn brein te maken heeft aan content te tonen.
+Ik begin met een stukje eigen content over wie ik ben en hoe ik op deze onderwerpen ben gekomen. ​
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door van alles en nog wat toe te voegen aan mijn website, niet met specifieke volgorde. Spelen met css en html en buttons die bijvoorbeeld de hele website veranderen.​
